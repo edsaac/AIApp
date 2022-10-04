@@ -1,12 +1,10 @@
 streamlit  
-pandas2  
+pandas
 
 #Index
 numpy  
 matplotlib  
  
-datetime2  
-requests 
 bs4 
 beautifulsoup4  
 
